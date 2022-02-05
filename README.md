@@ -1,5 +1,5 @@
 ### Hi there 👋
-![banner](https://github.com/diyanamendoza/diyanamendoza/blob/main/dm-banner.gif)
+![banner](https://github.com/diyanamendoza/diyanamendoza/blob/main/dm-banner-bee.gif)
 <!--
 **diyanamendoza/diyanamendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

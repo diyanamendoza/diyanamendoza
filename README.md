@@ -1,5 +1,7 @@
 ![banner](https://github.com/diyanamendoza/diyanamendoza/blob/main/dm-banner-bee.gif)
 
+<p>Hiya. I go by Diyana or 'Dee' and use she/her pronouns. For me, code is like good food. I love researching how I'm going to make it happen, I wake up in the middle of the night thinking about it, and I feel deeply satisfied when it lives up to my expectations.</p>
+
 ### Tech Stack
 
 - **Languages:** JavaScript, HTML, CSS
